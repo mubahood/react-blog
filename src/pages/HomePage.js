@@ -36,7 +36,7 @@ function HomePage() {
 
   return (
     <div>
-      <h1 className="mb-4">Posts</h1>
+      <h1 className="mb-4">My Posts</h1>
       <div className="mb-3">
         <input
           type="text"
